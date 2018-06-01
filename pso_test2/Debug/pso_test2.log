@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\pso_test2\pso_test2\source.cpp(82): warning C4477: 'scanf_s' : 書式文字列 '%d' には、型 'int *' の引数が必要ですが、可変個引数 1 は型 'char *' です
+  f:\pso_test2\pso_test2\source.cpp(82): note: 書式文字列に '%hhd' を使用することをお勧めします
+  pso_test2.vcxproj -> F:\pso_test2\Debug\pso_test2.exe
